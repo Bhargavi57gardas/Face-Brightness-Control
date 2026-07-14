@@ -65,12 +65,19 @@ python face_brightness.py
 
 ## Screenshots
 
-Add your project screenshots here after uploading them to GitHub.
+## Screenshots
 
-- Code Screenshot
-- Face Detection
-- Terminal Output
-- Brightness Demonstration
+### Code Screenshot
+![Code Screenshot](1.code.png)
+
+### Face Detection
+![Face Detection](2.face_detected.png)
+
+### Brightness Demonstration
+![Brightness Demonstration](3.brightness_demo.png)
+
+### Terminal Output
+![Terminal Output](4.terminal.png)
 
 
 ##  Future Improvements
