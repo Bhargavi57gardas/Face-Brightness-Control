@@ -38,16 +38,18 @@ Face Brightness Control is a real-time computer vision project developed using P
 ## Project Structure
 
 Face-Brightness-Control/
-│
-├── face_brightness.py
-├── README.md
-├── requirements.txt
-├── .gitignore
-├── LICENSE
-├── screenshots/
-└── demo
+.gitignore
+1.code.png
+2.face_detected.png
+3.brightness_demo.png
+4.terminal.png
+Demo.mp4
+LICENSE
+README.md
+face_brightness.py
+requirements.txt
 
-
+ 
 ## Installation
 
 ### 1. Clone this repository
