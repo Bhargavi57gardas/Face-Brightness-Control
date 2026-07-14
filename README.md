@@ -65,8 +65,6 @@ python face_brightness.py
 
 ## Screenshots
 
-## Screenshots
-
 ### Code Screenshot
 ![Code Screenshot](1.code.png)
 
@@ -78,6 +76,9 @@ python face_brightness.py
 
 ### Terminal Output
 ![Terminal Output](4.terminal.png)
+
+## Demo Video
+A Demonstration of the project is available in 'Demo.mp4'.
 
 
 ##  Future Improvements
