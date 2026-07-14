@@ -51,8 +51,8 @@ Face-Brightness-Control/
 ## Installation
 
 ### 1. Clone this repository
-
-git clone https://github.com/your-username/Face-Brightness-Control.git
+git clone
+https://github.com/Bhargavi57gardas/Face-Brightness-Control.git
 
 ### 2. Install the required libraries
 
